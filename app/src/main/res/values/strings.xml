@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تهران آلارم</string>
+    <string name="app_name_en">Tehran Alarm</string>
+
+    <!-- Home Screen -->
+    <string name="status_stable">پایدار</string>
+    <string name="status_normal">خوب</string>
+    <string name="status_emergency">اضطراری</string>
+    <string name="current_city">تهران</string>
+    <string name="test_alarm_button">تست آلارم</string>
+
+    <!-- Alarm Screen -->
+    <string name="alarm_title">تهران آلارم</string>
+    <string name="alarm_subtitle">حمله هوایی به شهر تهران</string>
+    <string name="stop_alarm_button">قطع آلارم</string>
+
+    <!-- Safety Instructions -->
+    <string name="safety_instruction_title">دستورالعمل های ایمنی</string>
+    <string name="safety_instruction_1">آرام بمانید</string>
+    <string name="safety_instruction_2">از پنجره ها دور شوید</string>
+    <string name="safety_instruction_3">به نزدیکترین جای ایمن رفت</string>
+    <string name="safety_instruction_4">از دستورالعمل های رسمی پیروی کنید</string>
+
+    <!-- Rating Dialog -->
+    <string name="rating_dialog_title">نظر شما درباره عملکرد تهران آلارم چیست؟</string>
+    <string name="rating_dialog_message">لطفا عملکرد اپلیکیشن را ارزیابی کنید</string>
+    <string name="rating_submit">تایید</string>
+    <string name="rating_cancel">لغو</string>
+    <string name="comment_hint">نظر خود را وارد کنید (اختیاری)</string>
+
+    <!-- Common -->
+    <string name="ok">تایید</string>
+    <string name="cancel">لغو</string>
+    <string name="error">خطا</string>
+    <string name="loading">در حال بارگذاری...</string>
+
+    <!-- Status Card -->
+    <string name="current_status">وضعیت فعلی</string>
+    <string name="current_time">ساعت</string>
+</resources>

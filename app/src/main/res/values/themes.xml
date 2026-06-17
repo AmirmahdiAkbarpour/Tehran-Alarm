@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Theme -->
+    <style name="Theme.TehranAlarm" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorBackground">@color/dark_gray</item>
+        <item name="android:colorForeground">@color/text_primary</item>
+        <item name="android:windowBackground">@color/dark_gray</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/darker_gray</item>
+    </style>
+</resources>

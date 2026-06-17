@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_gray">#121212</color>
+    <color name="darker_gray">#0A0A0A</color>
+    <color name="emergency_red">#D32F2F</color>
+    <color name="dark_red">#B71C1C</color>
+    <color name="warning_yellow">#FFC107</color>
+    <color name="warning_yellow_dark">#FFA000</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="surface_darker">#161616</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="divider">#303030</color>
+</resources>
