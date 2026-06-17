@@ -1,32 +1,48 @@
-# Ignore Gradle files
-.gradle
-gradle-wrapper.jar
-.gradle/
-
-# Ignore Android files
-local.properties
 .idea/
-*.iml
-.DS_Store
+.gradle/
+gradle-wrapper.jar
+*.class
+
+# Gradle
+.gradle
 build/
-output/
-gen/
+gradlew
+gradlew.bat
+gradle.properties
+
+# Android
+local.properties
+.DS_Store
 *.apk
 *.ap_
+*.dex
+*.class
+*.jar
 
-# Ignore IDE
+# IDE
+.idea/
+*.iml
 .vscode/
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
+*.swp
+*.swo
+*~
 
-# Ignore OS
+# OS
 .DS_Store
 .DS_Store?
 ._*
 .Spotlight-V100
 .Trashes
 ehthumbs.db
+
+# Firebase
+google-services.json
+
+# Generated files
+.gradle/
+build/
+gen/
+.settings/
+
+# Logs
+*.log
