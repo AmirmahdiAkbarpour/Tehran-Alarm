@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Splash Screen Theme -->
+    <style name="SplashScreenTheme" parent="Theme.TehranAlarm">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/darker_gray</item>
+        <item name="android:navigationBarColor">@color/darker_gray</item>
+    </style>
+
+    <!-- Alarm Screen Theme -->
+    <style name="AlarmScreenTheme" parent="Theme.TehranAlarm">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+        <item name="android:windowShowWallpaper">false</item>
+    </style>
+</resources>
